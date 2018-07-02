@@ -1,0 +1,23 @@
+.jumbotron {
+    background: aquamarine;
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+#hide-when-started {
+    color: white;
+}
+
+#show-at-start {
+    text-align: left;
+}
+
+#answers {
+    font-size: 20px;
+}
+
+#done-button {
+    color: white;
+}
