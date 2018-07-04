@@ -2,22 +2,40 @@
     background: aquamarine;
     text-align: center;
     margin-top: 100px;
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 170px;
+    margin-left: 170px;
+    font-family: 'Audiowide', cursive;
 }
 
-#hide-when-started {
-    color: white;
+.container-fluid {
+    background-image: url("../images/curls.png");
+    background-color: #cccccc;
+    padding-top: 30px;
+    padding-bottom: 300px;
 }
 
-#show-at-start {
-    text-align: left;
+.question {
+    /* font-family: 'Audiowide', cursive; */
+    font-size: 30px;
 }
 
-#answers {
-    font-size: 20px;
+.rightAnswer {
+    font-size: 30px;
 }
 
-#done-button {
-    color: white;
+.wrongAnswer {
+    font-size: 30px;
 }
+
+.redBtn {
+    margin: 10px;
+}
+
+.score {
+    font-size: 30px;
+}
+
+.gameOver {
+    font-size: 30px;
+}
+
